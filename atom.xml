@@ -2,13 +2,13 @@
 <?xml-stylesheet type="text/xsl" href="/atom.xsl" media="all"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>/</id>
-  <title>The Butler</title>
-  <subtitle><![CDATA[A ready to use static blog, powered by Cecil.]]></subtitle>
+  <title>Diário do Dorly</title>
+  <subtitle><![CDATA[Escrever todos os dias é a fórmula para pensar melhor/]]></subtitle>
   <link href="/atom.xml" rel="self" type="application/atom+xml" />
   <link href="/" rel="alternate" type="text/html" />
-  <updated>2019-07-09T02:00:00+02:00</updated>
+  <updated>2019-07-08T21:00:00-03:00</updated>
   <author>
-    <name>The Butler</name>
+    <name>Diário do Dorly</name>
     <uri>/</uri>
   </author>
   <entry xml:lang="en">
@@ -27,7 +27,7 @@
 <p><a href="https://app.netlify.com/start/deploy?repository=https://github.com/Cecilapp/the-butler&amp;stack=cms"><img src="/assets/www.netlify.com/img/deploy/button.3ad9ffd81513851911c7c1ccd470b19b.svg" alt="Deploy to Netlify" loading="lazy" width="146" height="32" /></a></p>]]>
     </content>
     <link href="/about/" rel="alternate" type="text/html" />
-    <published>2019-07-09T02:00:00+02:00</published>
-    <updated>2019-07-09T02:00:00+02:00</updated>
+    <published>2019-07-08T21:00:00-03:00</published>
+    <updated>2019-07-08T21:00:00-03:00</updated>
   </entry>
 </feed>

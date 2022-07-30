@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/xsl" href="/atom.xsl" media="all"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-  <id>/</id>
-  <title>Diário do Dorly</title>
+  <id>/tags/escrita/</id>
+  <title>Diário do Dorly - escrita</title>
   <subtitle><![CDATA[Escrever todos os dias é a fórmula para pensar melhor.]]></subtitle>
-  <link href="/atom.xml" rel="self" type="application/atom+xml" />
-  <link href="/" rel="alternate" type="text/html" />
+  <link href="/tags/escrita/atom.xml" rel="self" type="application/atom+xml" />
+  <link href="/tags/escrita/" rel="alternate" type="text/html" />
   <updated>2022-07-30T19:38:08-03:00</updated>
   <author>
     <name>Diário do Dorly</name>
@@ -23,18 +23,5 @@
     <link href="/blog/o-habito-da-escrita-intencional/" rel="alternate" type="text/html" />
     <published>2022-07-30T19:38:08-03:00</published>
     <updated>2022-07-30T19:38:08-03:00</updated>
-  </entry>
-  <entry xml:lang="en">
-    <id>/about/</id>
-    <title>Sobre mim</title>
-    <content type="html">
-      <![CDATA[<p>Salve! </p>
-<p>Me chamo Dorly e sou o criador da dorly studio, empresa especializada em treinamentos de liderança e carreira para jovens profissionais. Possuo 13 anos de experiência em lançamento de produtos digitais em educação, saúde e serviços financeiros. Aos 20 anos, fui co-fundador da Benfeitoria, primeira plataforma de crowdfunding gratuita do mundo. Entre 2018 e 2020, fui acelerador e mentor de negócios na Estação Hack, primeira aceleradora de impacto do Facebook. Também sou liderança integrante da Global Shapers Community, iniciativa criada pelo World Economic Forum para reunir jovens focados em transformar o futuro através do diálogo e ação.</p>
-<p>Tenho o hábito de escrever todos os dias desde meus 16 anos. Dia 30/07/2022 iniciei este projeto de postar um texto por dia até o último dia de minha vida. </p>
-<p>Será possível? Só acompanhando para saber :)</p>]]>
-    </content>
-    <link href="/about/" rel="alternate" type="text/html" />
-    <published>2019-07-08T21:00:00-03:00</published>
-    <updated>2019-07-08T21:00:00-03:00</updated>
   </entry>
 </feed>

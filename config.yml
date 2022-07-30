@@ -4,10 +4,10 @@ theme:
   - netlify
   - netlify-cms
 keywords:
-  - Cecil
+  - Dorly
   - Static Site Generator
   - SSG
-author: Arnaud Ligny
+author: Dorly
 description: Escrever todos os dias é a fórmula para pensar melhor.
 date:
   format: j F Y

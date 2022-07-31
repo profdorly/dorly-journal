@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/xsl" href="/atom.xsl" media="all"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-  <id>/tags/escrita/</id>
-  <title>Diário do Dorly - escrita</title>
+  <id>/tags/disciplina/</id>
+  <title>Diário do Dorly - disciplina</title>
   <subtitle><![CDATA[Escrever todos os dias é a fórmula para pensar melhor.]]></subtitle>
-  <link href="/tags/escrita/atom.xml" rel="self" type="application/atom+xml" />
-  <link href="/tags/escrita/" rel="alternate" type="text/html" />
+  <link href="/tags/disciplina/atom.xml" rel="self" type="application/atom+xml" />
+  <link href="/tags/disciplina/" rel="alternate" type="text/html" />
   <updated>2022-07-31T19:17:15-03:00</updated>
   <author>
     <name>Diário do Dorly</name>
@@ -24,18 +24,5 @@
     <link href="/blog/quem-me-inspirou-a-criar-este-diario/" rel="alternate" type="text/html" />
     <published>2022-07-31T19:17:15-03:00</published>
     <updated>2022-07-31T19:17:15-03:00</updated>
-  </entry>
-  <entry xml:lang="en">
-    <id>/blog/o-habito-da-escrita-intencional/</id>
-    <title>O hábito da escrita intencional</title>
-    <content type="html">
-      <![CDATA[<p>Repare bem: provavelmente você já possui o hábito da escrita.</p>
-<p>É isso mesmo. Todos os dias você escreve um e-mail, alguma mensagem no zap, enche a parede de post-its, etc. </p>
-<p>A escrita já é a principal ferramenta que você utiliza no dia a dia para pensar melhor. Mas se você não evolui a sua escrita de forma <strong>intencional</strong>, ela sempre será uma ferramenta limitada.</p>
-<p>Criei este diário como um exercício de disciplina. Eu já escrevo todos os dias pela natureza do meu trabalho, mas agora a pressão do tempo me obrigará a pensar melhor. Ou seja, a escrever melhor também.</p>]]>
-    </content>
-    <link href="/blog/o-habito-da-escrita-intencional/" rel="alternate" type="text/html" />
-    <published>2022-07-30T19:38:08-03:00</published>
-    <updated>2022-07-30T19:38:08-03:00</updated>
   </entry>
 </feed>

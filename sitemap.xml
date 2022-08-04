@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/blog/a-melhor-licao-que-eu-ja-ouvi-sobre-carreira/</loc>
-    <lastmod>2022-08-01</lastmod>
+    <loc>/blog/aprendendo-em-publico/</loc>
+    <lastmod>2022-08-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/</loc>
+    <lastmod>2022-08-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>/blog/a-melhor-licao-que-eu-ja-ouvi-sobre-carreira/</loc>
     <lastmod>2022-08-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

@@ -1,6 +1,6 @@
 ---
 title: Quem me inspirou a criar este diário?
-date: 2022-07-31T22:17:15.983Z
+date: 2022-08-25T22:17:15.983Z
 tags:
   - disciplina
   - escrita

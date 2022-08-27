@@ -1,6 +1,6 @@
 ---
 title: Aprendendo em público
-date: 2022-08-02T17:21:46.067Z
+date: 2022-08-23T17:21:00.000Z
 tags:
   - aprendizado
   - disciplina

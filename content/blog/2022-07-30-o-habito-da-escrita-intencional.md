@@ -1,6 +1,6 @@
 ---
 title: O hábito da escrita intencional
-date: 2022-07-30T22:38:08.166Z
+date: 2022-08-26T22:38:08.166Z
 tags:
   - habito
   - escrita
